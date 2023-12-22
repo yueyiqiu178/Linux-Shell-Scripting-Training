@@ -1,0 +1,145 @@
+total 1.2M
+88029 drwxr-xr-x  1 root root 4.0K Dec 22 13:38 .
+88040 drwxr-xr-x  1 root root 4.0K Dec 22 13:40 ..
+89923 drwxr-xr-x  3 root root 4.0K Dec 20 15:35 .java
+55260 -rw-------  1 root root    0 Sep 15  2021 .pwd.lock
+88078 -rw-r--r--  1 root root  208 Sep 15  2021 .updated
+55261 -rw-r--r--  1 root root   14 Sep 15  2021 BUILDTIME
+55262 -rw-r--r--  1 root root   94 May 11  2019 GREP_COLORS
+55263 drwxr-xr-x  3 root root 4.0K Sep 15  2021 NetworkManager
+55266 drwxr-xr-x  1 root root 4.0K Sep 15  2021 X11
+55274 -rw-r--r--  1 root root   16 Sep 15  2021 adjtime
+55275 -rw-r--r--  1 root root 1.5K May 15  2020 aliases
+55276 drwxr-xr-x  1 root root 4.0K Dec 20 15:36 alternatives
+90618 -rw-r--r--  1 root root   55 Jun 16  2021 asound.conf
+55281 drwxr-xr-x  2 root root 4.0K Nov  3  2020 bash_completion.d
+55282 -rw-r--r--  1 root root 3.0K May 15  2020 bashrc
+55283 -rw-r--r--  1 root root  429 Nov  9  2019 bindresvport.blacklist
+55284 drwxr-xr-x  2 root root 4.0K Mar 17  2021 binfmt.d
+55285 -rw-r--r--  1 root root   30 May 27  2021 centos-release
+55286 -rw-r--r--  1 root root   42 May 27  2021 centos-release-upstream
+55287 drwxr-xr-x  2 root root 4.0K Apr 27  2020 chkconfig.d
+55288 drwxr-xr-x  1 root root 4.0K Jun 19  2021 crypto-policies
+55308 -rw-------  1 root root    0 Sep 15  2021 crypttab
+55309 -rw-r--r--  1 root root 1.6K May 15  2020 csh.cshrc
+55310 -rw-r--r--  1 root root 1.1K May 15  2020 csh.login
+55311 drwxr-xr-x  4 root root 4.0K Sep 15  2021 dbus-1
+55316 drwxr-xr-x  1 root root 4.0K Dec 21 17:44 default
+55318 drwxr-xr-x  2 root root 4.0K Sep 15  2021 depmod.d
+55320 drwxr-x---  3 root root 4.0K Sep 15  2021 dhcp
+55323 drwxr-xr-x  1 root root 4.0K Sep 15  2021 dnf
+55337 -rw-r--r--  1 root root  117 Feb 12  2021 dracut.conf
+55338 drwxr-xr-x  2 root root 4.0K Feb 12  2021 dracut.conf.d
+55339 -rw-r--r--  1 root root    0 May 15  2020 environment
+55340 -rw-r--r--  1 root root 1.4K Sep 10  2018 ethertypes
+55341 -rw-r--r--  1 root root    0 Sep 10  2018 exports
+55342 -rw-r--r--  1 root root   66 Sep 10  2018 filesystems
+88445 drwxr-xr-x  3 root root 4.0K Dec 20 15:35 fonts
+55343 drwxr-xr-x  2 root root 4.0K Sep 15  2021 gcrypt
+55345 drwxr-xr-x  2 root root 4.0K May 16  2020 gnupg
+88161 drwxr-xr-x  4 root root 4.0K Dec 20 15:36 groff
+67187 -rw-r--r--  1 root root  482 Dec 21 17:52 group
+55347 -rw-r--r--  1 root root  481 Dec 21 17:51 group-
+67171 ----------  1 root root  377 Dec 21 17:52 gshadow
+55349 ----------  1 root root  376 Dec 21 17:51 gshadow-
+55350 drwxr-xr-x  3 root root 4.0K Sep 15  2021 gss
+55352 -rw-r--r--  1 root root    9 Sep 10  2018 host.conf
+88054 -rw-r--r--  1 root root   13 Dec 22 09:57 hostname
+88056 -rw-r--r--  1 root root  174 Dec 22 09:57 hosts
+55355 lrwxrwxrwx  1 root root   11 Apr 27  2020 init.d -> rc.d/init.d
+55356 -rw-r--r--  1 root root  490 Mar 17  2021 inittab
+55357 -rw-r--r--  1 root root  942 Sep 10  2018 inputrc
+55358 drwxr-xr-x  2 root root 4.0K Sep 15  2021 iproute2
+55368 -rw-r--r--  1 root root   23 May 27  2021 issue
+55369 -rw-r--r--  1 root root   22 May 27  2021 issue.net
+89895 drwxr-xr-x  4 root root 4.0K Dec 20 15:35 java
+89898 drwxr-xr-x  2 root root 4.0K May 31  2019 jvm
+89899 drwxr-xr-x  2 root root 4.0K May 31  2019 jvm-commmon
+55370 drwxr-xr-x  4 root root 4.0K Sep 15  2021 kdump
+55373 -rw-r--r--  1 root root 8.4K Sep 15  2021 kdump.conf
+55374 drwxr-xr-x  3 root root 4.0K Sep 15  2021 kernel
+55376 -rw-r--r--  1 root root  812 Jan  9  2021 krb5.conf
+55377 drwxr-xr-x  2 root root 4.0K Sep 15  2021 krb5.conf.d
+68917 -rw-r--r--  1 root root  13K Dec 22 13:22 ld.so.cache
+55380 -rw-r--r--  1 root root   28 Mar 12  2021 ld.so.conf
+55381 drwxr-xr-x  2 root root 4.0K Sep 15  2021 ld.so.conf.d
+55383 -rw-r-----  1 root root  191 Nov  5  2019 libaudit.conf
+55384 drwxr-xr-x  2 root root 4.0K Sep 15  2021 libibverbs.d
+55397 drwxr-xr-x  2 root root 4.0K Sep 15  2021 libnl
+55400 drwxr-xr-x  6 root root 4.0K Sep 15  2021 libreport
+55406 -rw-r--r--  1 root root   19 Sep 15  2021 locale.conf
+67202 lrwxrwxrwx  1 root root   33 Dec 22 13:38 localtime -> ../usr/share/zoneinfo/Asia/Taipei
+55408 -rw-r--r--  1 root root 2.5K Dec  2  2020 login.defs
+55409 drwxr-xr-x  2 root root 4.0K Sep 15  2021 logrotate.d
+55411 -r--r--r--  1 root root   33 Dec 20 15:11 machine-id
+66372 -rw-r--r--  1 root root  111 May  8  2021 magic
+55412 -rw-r--r--  1 root root 5.1K Feb 26  2021 makedumpfile.conf.sample
+92146 -rw-r--r--  1 root root 5.1K Jun 30  2021 man_db.conf
+55413 drwxr-xr-x  2 root root 4.0K Sep 15  2021 modprobe.d
+55416 drwxr-xr-x  2 root root 4.0K Mar 17  2021 modules-load.d
+55417 -rw-r--r--  1 root root    0 Sep 10  2018 motd
+88080 lrwxrwxrwx  1 root root   19 Dec 20 15:11 mtab -> ../proc/self/mounts
+55419 -rw-r--r--  1 root root  767 Nov  9  2019 netconfig
+55420 -rw-r--r--  1 root root   58 Sep 10  2018 networks
+55421 -rw-r--r--  1 root root 2.2K Sep 15  2021 nsswitch.conf
+55422 -rw-r--r--  1 root root 2.2K Mar 12  2021 nsswitch.conf.bak
+55423 drwxr-xr-x  3 root root 4.0K Sep 15  2021 openldap
+55426 drwxr-xr-x  2 root root 4.0K Nov  3  2020 opt
+55427 lrwxrwxrwx  1 root root   21 May 27  2021 os-release -> ../usr/lib/os-release
+55428 drwxr-xr-x  2 root root 4.0K Sep 15  2021 pam.d
+67189 -rw-r--r--  1 root root  832 Dec 21 17:45 passwd
+55444 -rw-r--r--  1 root root  789 Dec 21 17:45 passwd-
+55445 drwxr-xr-x  3 root root 4.0K Sep 15  2021 pkcs11
+55447 drwxr-xr-x  1 root root 4.0K Dec 20 15:35 pki
+55486 drwxr-xr-x  5 root root 4.0K Sep 15  2021 pm
+55490 drwxr-xr-x  2 root root 4.0K Jan 19  2021 popt.d
+55491 -rw-r--r--  1 root root  233 Sep 10  2018 printcap
+55492 -rw-r--r--  1 root root 2.1K May 15  2020 profile
+55493 drwxr-xr-x  1 root root 4.0K Dec 22 13:22 profile.d
+55508 -rw-r--r--  1 root root 6.5K Sep 10  2018 protocols
+55509 drwxr-xr-x 10 root root 4.0K Sep 15  2021 rc.d
+55520 lrwxrwxrwx  1 root root   13 Mar 17  2021 rc.local -> rc.d/rc.local
+55521 lrwxrwxrwx  1 root root   10 Apr 27  2020 rc0.d -> rc.d/rc0.d
+55522 lrwxrwxrwx  1 root root   10 Apr 27  2020 rc1.d -> rc.d/rc1.d
+55523 lrwxrwxrwx  1 root root   10 Apr 27  2020 rc2.d -> rc.d/rc2.d
+55524 lrwxrwxrwx  1 root root   10 Apr 27  2020 rc3.d -> rc.d/rc3.d
+55525 lrwxrwxrwx  1 root root   10 Apr 27  2020 rc4.d -> rc.d/rc4.d
+55526 lrwxrwxrwx  1 root root   10 Apr 27  2020 rc5.d -> rc.d/rc5.d
+55527 lrwxrwxrwx  1 root root   10 Apr 27  2020 rc6.d -> rc.d/rc6.d
+55528 drwxr-xr-x  3 root root 4.0K Sep 15  2021 rdma
+55536 lrwxrwxrwx  1 root root   14 May 27  2021 redhat-release -> centos-release
+88057 -rw-r--r--  1 root root   97 Dec 22 09:57 resolv.conf
+55538 -rw-r--r--  1 root root 1.6K Aug  1  2018 rpc
+55539 drwxr-xr-x  2 root root 4.0K Sep 15  2021 rpm
+55542 drwxr-xr-x  2 root root 4.0K May 16  2020 sasl2
+55543 drwxr-xr-x  7 root root 4.0K Sep 15  2021 security
+55563 drwxr-xr-x  2 root root 4.0K Sep 15  2021 selinux
+55565 -rw-r--r--  1 root root 677K May 15  2020 services
+67184 ----------  1 root root  517 Dec 21 17:45 shadow
+55567 ----------  1 root root  488 Dec 21 17:45 shadow-
+55568 -rw-r--r--  1 root root   44 Sep 10  2018 shells
+55569 drwxr-xr-x  2 root root 4.0K Sep 15  2021 skel
+55573 drwxr-xr-x  2 root root 4.0K Sep 15  2021 ssl
+67175 -rw-r--r--  1 root root   60 Dec 21 17:45 subgid
+67160 -rw-r--r--  1 root root   40 Dec 21 17:45 subgid-
+67172 -rw-r--r--  1 root root   60 Dec 21 17:45 subuid
+67158 -rw-r--r--  1 root root   40 Dec 21 17:45 subuid-
+55577 drwxr-xr-x  1 root root 4.0K Dec 20 15:36 sysconfig
+55584 -rw-r--r--  1 root root  449 Mar 17  2021 sysctl.conf
+55585 drwxr-xr-x  2 root root 4.0K Sep 15  2021 sysctl.d
+55587 lrwxrwxrwx  1 root root   14 May 27  2021 system-release -> centos-release
+55588 -rw-r--r--  1 root root   23 May 27  2021 system-release-cpe
+55589 drwxr-xr-x  4 root root 4.0K Sep 15  2021 systemd
+55615 drwxr-xr-x  2 root root 4.0K May 11  2019 terminfo
+55616 drwxr-xr-x  2 root root 4.0K Mar 17  2021 tmpfiles.d
+55617 drwxr-xr-x  1 root root 4.0K Dec 20 15:11 udev
+55622 -rw-r--r--  1 root root   28 Sep 15  2021 vconsole.conf
+67238 -rw-r--r--  1 root root 2.0K Sep 22  2021 vimrc
+55623 -rw-r--r--  1 root root 1.2K Jun 18  2020 virc
+95802 -rw-r--r--  1 root root 4.9K Apr 27  2020 wgetrc
+55624 -rw-r--r--  1 root root  642 Dec 10  2016 xattr.conf
+55625 drwxr-xr-x  4 root root 4.0K Sep 15  2021 xdg
+55629 drwxr-xr-x  2 root root 4.0K Nov  3  2020 xinetd.d
+55630 drwxr-xr-x  2 root root 4.0K Sep 15  2021 yum
+55634 lrwxrwxrwx  1 root root   12 Mar 12  2021 yum.conf -> dnf/dnf.conf
+55635 drwxr-xr-x  1 root root 4.0K Dec 20 15:32 yum.repos.d
